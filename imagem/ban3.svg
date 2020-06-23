@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 500" style="enable-background:new 0 0 1920 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00FF00;}
+	.st1{fill:url(#SVGID_1_);stroke:#006837;stroke-miterlimit:10;}
+	.st2{fill:url(#SVGID_2_);stroke:#603813;stroke-miterlimit:10;}
+	.st3{fill:#006837;}
+	.st4{fill:none;}
+	.st5{font-family:'BerlinSansFBDemi-Bold';}
+	.st6{font-size:60px;}
+</style>
+<g>
+	<rect x="0.5" y="0.5" class="st0" width="1919" height="499"/>
+	<path d="M1919,1v498H1V1H1919 M1920,0H0v500h1920V0L1920,0z"/>
+</g>
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="813.2905" y1="312.7431" x2="964.1096" y2="191.9004" gradientTransform="matrix(1 0 0 -1 0 502)">
+			<stop  offset="0" style="stop-color:#FF7300"/>
+			<stop  offset="0.1521" style="stop-color:#F97C01"/>
+			<stop  offset="0.4043" style="stop-color:#EA9602"/>
+			<stop  offset="0.4744" style="stop-color:#E59E03"/>
+			<stop  offset="0.5999" style="stop-color:#E5B102"/>
+			<stop  offset="0.746" style="stop-color:#E5C000"/>
+			<stop  offset="0.8652" style="stop-color:#E5C500"/>
+			<stop  offset="0.9944" style="stop-color:#BF6F00"/>
+		</linearGradient>
+		<path class="st1" d="M919.26,296.19c52.04-6.25,93.68-52.04,93.68-106.17c0-58.29-47.88-106.17-106.17-106.17
+			s-108.25,47.88-108.25,106.17c0,52.04,37.47,95.76,89.51,104.08v60.37h-91.59v31.23h212.33v-31.23h-91.59
+			C919.26,354.48,919.26,296.19,919.26,296.19z"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="796.439" y1="153.7646" x2="1009.6196" y2="153.7646" gradientTransform="matrix(1 0 0 -1 0 502)">
+			<stop  offset="0" style="stop-color:#FF7300"/>
+			<stop  offset="0.1771" style="stop-color:#F97C01"/>
+			<stop  offset="0.4705" style="stop-color:#EA9602"/>
+			<stop  offset="0.5521" style="stop-color:#E59E03"/>
+			<stop  offset="0.8652" style="stop-color:#E5C500"/>
+			<stop  offset="0.9944" style="stop-color:#BF6F00"/>
+		</linearGradient>
+		<path class="st2" d="M888.03,302.44v60.37h-91.59v31.23h212.33v-31.23h-91.59v-58.29"/>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M721.5,171.29c31.23,33.31,81.19,35.39,114.49,6.25c16.65-14.57,24.98-35.39,27.06-56.21
+				c2.08-20.82-6.25-41.63-20.82-58.29C804.77,21.41,671.54,11,671.54,11S684.03,127.58,721.5,171.29z"/>
+			<path class="st0" d="M825.58,79.7c10.41,12.49,14.57,27.06,14.57,41.63c0,10.41-4.16,18.74-10.41,29.14
+				c-31.23-14.57-60.37-35.39-79.1-62.45c14.57,31.23,37.47,58.29,64.53,77.02c-24.98,16.65-56.21,12.49-74.94-10.41
+				c-18.74-20.82-45.8-79.1-49.96-122.82C733.99,40.14,806.85,56.8,825.58,79.7z"/>
+		</g>
+		<g>
+			<path class="st3" d="M815.17,77.61c-16.65,24.98-10.41,60.37,14.57,77.02c12.49,8.33,27.06,10.41,41.63,8.33
+				c14.57-2.08,27.06-10.41,35.39-22.9c22.9-31.23,8.33-120.74,8.33-120.74S838.07,46.39,815.17,77.61z"/>
+			<path class="st0" d="M892.2,131.74c-6.25,8.33-14.57,14.57-24.98,16.65c-6.25,2.08-14.57,0-20.82-2.08
+				c4.16-22.9,12.49-45.8,27.06-62.45c-16.65,14.57-31.23,33.31-39.55,54.12c-14.57-12.49-16.65-35.39-4.16-49.96
+				c10.41-16.65,45.8-41.63,72.86-49.96C902.61,65.12,902.61,117.17,892.2,131.74z"/>
+		</g>
+	</g>
+</g>
+<rect x="549" y="428.28" class="st4" width="766.73" height="59.73"/>
+<text transform="matrix(1 0 0 1 549.0002 470.5796)" class="st5 st6">AUTO POSTO LARANJEIRAS</text>
+</svg>

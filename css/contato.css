@@ -1,0 +1,141 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Cabeçalho */
+
+body{
+    background-color: rgb(235, 235, 235);
+    color: black;
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+#cabecalho{
+    height: 150px;
+    background-image: url(../imagem/Plano\ de\ fundo.jpg);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: red;
+}
+
+#logotipo{
+    margin: 10px;
+    width: auto;
+    height: 120px;
+}
+
+/* Menu */
+
+.justify-content-end{
+    background-color: rgb(210, 0, 0);
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: yellow;
+}
+
+/*Configurações do conteúdo*/
+
+#titulo{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+/* Formulário*/
+
+#formulario{
+    margin-bottom: 20px;
+}
+
+#enviar{
+    float: right;
+    font-size: 15px;
+    padding: 5px;
+    margin-right: 15px;
+}
+
+/* Rodapé */
+
+footer{
+    background-color: rgb(210, 0, 0);
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    height: 100%;
+    text-align: center;
+
+    margin: 0;
+    padding: 0;
+}
+
+footer main{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas: 
+    'nome1 link1 mapa1'
+    'nome2 link2 mapa2'
+    'nome3 link3 mapa2'
+    'nome4 link4 mapa2';
+}
+
+.nome1{
+    grid-area: nome1;
+}
+
+.nome2{
+    grid-area: nome2;
+}
+
+.nome3{
+    grid-area: nome3;
+}
+
+.nome4{
+    grid-area: nome4;
+}
+
+.link1{
+    grid-area: link1;
+}
+
+.link2{
+    grid-area: link2;
+}
+
+.link3{
+    grid-area: link3;
+}
+
+.link4{
+    grid-area: link4;
+}
+
+.mapa1{
+    grid-area: mapa1;
+}
+
+.mapa2{
+    grid-area: mapa2;
+    margin-left: 50px;
+}
+
+.direitos{
+    font-size: 15px;
+    background-color: rgb(130, 0, 0);
+}
